@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdz40N88Z7O41TxDjzNrxgeyUqZQSFdMtg2fA2xJv4OeZ/zBeNIyoDO3NXQ1JrnhrUgY0T+YMrExpUxW/IQyWw==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\_Articles-Posts To Complete Code\\C#\\CSharp-DateTime-UTC-Offset-Best-Practices\\ZR.CodeExample\\ZR.CodeExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\nodatime\\3.1.9\\nodatime.3.1.9.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
